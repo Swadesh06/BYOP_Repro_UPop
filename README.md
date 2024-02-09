@@ -34,4 +34,15 @@ DeiT, building on a Vision Transformer backbone, introduces two main features: a
   - Test set: 10,000 images
  - Note: The CIFAR-10 dataset does not come with a predefined development (validation) set. Researchers often partition the training set to create a validation set for hyperparameter tuning and model evaluation during development. A common practice is to use 45,000 images for training and set aside 5,000 for validation.
 
-  -The Python codes provided in this repository download and implement the model and the dataset in the code itself, as they are directly callable.
+- The Python codes provided in this repository download and implement the model and the dataset in the code itself, as they are directly callable. There is no requirement of setting paths in the code or placing files in specifc folders.
+# Installation 
+  - Requiremnts:
+    - Python : 3.11
+    - Torch : 2.2.0
+    - TQDM : 4.66.1
+    - TorchVision:
+    - HuggingFace library of Transformers : 4.17.0
+    -  cuda : 11.8 (P100 GPU Accelerator)
+    -  NumPy: 1.16.4 or higher
+
+# Setup
