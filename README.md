@@ -1,7 +1,9 @@
 # BYOP_Repro_UPop 
 # What it does ❓
 This study is aimed at replicating the results of a pruning algorithm, a description of which is shown in the below video:
-https://github.com/sdc17/UPop-Project/assets/47023705/7561f7a3-8f5c-4ab6-88b1-30dda533f3fe 
+
+https://github.com/Swadesh06/BYOP_Repro_UPop/assets/129365476/07996665-f77c-4f2f-89ac-b473ffdab19b
+
 
 # Description 📝
 A novel pruning algorithm , UPop is is shown implented in this paper: https://proceedings.mlr.press/v202/shi23e/shi23e.pdf
