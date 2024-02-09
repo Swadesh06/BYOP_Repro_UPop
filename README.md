@@ -5,6 +5,7 @@ https://github.com/sdc17/UPop-Project/assets/47023705/7561f7a3-8f5c-4ab6-88b1-30
 
 # Description 📝
 A novel pruning algorithm , UPop is is shown implented in this paper: https://proceedings.mlr.press/v202/shi23e/shi23e.pdf
+The main file for my code is : Main_UPop:DeiT_Implementation_v9.ipynb
 
 This study primarily focuses on implementing UPop on a DeiT model performingimage classification on the CIFAR-10 Dataset, and will aim to examine the following claims and experiments:
 -	Examine the feasibility of compression offered by Progressive Pruning at higher compression ratios
