@@ -23,15 +23,15 @@ DeiT, building on a Vision Transformer backbone, introduces two main features: a
 * CIFAR-10 dataset : https://pytorch.org/vision/main/generated/torchvision.datasets.CIFAR10.html
 * Dataset Description:
 
-Statistics and Label Distribution
-Total number of examples: 60,000 images
-Number of classes: 10
-Examples per class: 6,000 images
-Class labels: Airplane, Automobile, Bird, Cat, Deer, Dog, Frog, Horse, Ship, Truck
-Image size: 32x32 pixels, color (RGB channels)
-Train / Dev (Validation) / Test Splits
-Training set: 50,000 images
-Test set: 10,000 images
-Note: The CIFAR-10 dataset does not come with a predefined development (validation) set. Researchers often partition the training set to create a validation set for hyperparameter tuning and model evaluation during development. A common practice is to use 45,000 images for training and set aside 5,000 for validation.
+  - Statistics and Label Distribution
+    - Total number of examples: 60,000 images
+    - Number of classes: 10
+    - Examples per class: 6,000 images
+    - Class labels: Airplane, Automobile, Bird, Cat, Deer, Dog, Frog, Horse, Ship, Truck
+  - Image size: 32x32 pixels, color (RGB channels)
+  - Train / Dev (Validation) / Test Splits
+  - Training set: 50,000 images
+  - Test set: 10,000 images
+ - Note: The CIFAR-10 dataset does not come with a predefined development (validation) set. Researchers often partition the training set to create a validation set for hyperparameter tuning and model evaluation during development. A common practice is to use 45,000 images for training and set aside 5,000 for validation.
 
-The Python codes provided in this repository download and implement the model and the dataset in the code itself, as they are directly callable.
+  -The Python codes provided in this repository download and implement the model and the dataset in the code itself, as they are directly callable.
