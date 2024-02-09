@@ -46,3 +46,8 @@ DeiT, building on a Vision Transformer backbone, introduces two main features: a
     -  NumPy: 1.16.4 or higher
 
 # Setup
+..image
+
+# Documentation
+ - HLD: BYOP_ReproducibilityTrack_2024_Report: https://docs.google.com/document/d/1RguUkhHiGCgGGspkQwgJ_yfFekhuNIvs/edit
+   
